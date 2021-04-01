@@ -1,0 +1,22 @@
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\BilgisayarGrafikleri.exe.config
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\BilgisayarGrafikleri.exe
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\BilgisayarGrafikleri.pdb
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.csprojAssemblyReference.cache
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.AnaMenu.resources
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.Properties.Resources.resources
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.TemelIslemler.resources
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.csproj.GenerateResource.cache
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.csproj.CoreCompileInputs.cache
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.exe
+C:\Users\49163\Documents\BilgisayarGrafikleri\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.pdb
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\BilgisayarGrafikleri.exe.config
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\BilgisayarGrafikleri.exe
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\BilgisayarGrafikleri.pdb
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.csprojAssemblyReference.cache
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.AnaMenu.resources
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.Properties.Resources.resources
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.TemelIslemler.resources
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.csproj.GenerateResource.cache
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.csproj.CoreCompileInputs.cache
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.exe
+E:\dosyalar\Yeni klasör\indirilenler\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\BilgisayarGrafikleri.pdb
